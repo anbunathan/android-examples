@@ -1,6 +1,5 @@
 # Preparing a TF model for usage in Android
-# By Omid Alemi - Jan 2017
-# Works with TF r1.0
+
 
 import sys
 # import tensorflow as tf
